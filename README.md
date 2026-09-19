@@ -10,6 +10,26 @@
 **Results:** The completed network implementation achieved 100% connectivity across all required network segments and devices. Connectivity testing confirmed 100% successful ping responses between authorized devices, firewalls, servers and VLANs, demonstrating that the configured SVIs and default gateways were functioning correctly for inter-VLAN communication.
 
 
+
+<img width="1237" height="622" alt="NETWORK DESIGN (SCHOOL)" src="https://github.com/user-attachments/assets/6c88d815-6fb1-460a-9c53-bd7c76c5b744" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 **VLAN 10 (ADMIN)**
 Network (192.168.10.192/27)
 
